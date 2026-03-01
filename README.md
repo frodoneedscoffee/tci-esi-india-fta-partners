@@ -5,7 +5,7 @@ This repository analyzes trade structure alignment between India and its recent 
 - **Trade Complementarity Index (TCI)**
 - **Export Similarity Index (ESI)**
 
-The objective is to evaluate whether India's export profile aligns with partner import demand (complementarity) and whether export baskets overlap (competition / intra-industry potential).
+The objective is to evaluate whether India's export profile aligns with partner import demand (complementarity) and whether export baskets overlap (competition/intra-industry potential).
 
 ---
 
