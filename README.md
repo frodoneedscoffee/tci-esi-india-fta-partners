@@ -60,12 +60,12 @@ Both indices are computed at:
 
 ---
 
-## 🔁 Reproducibility (Run in Order)
+## Reproducibility (Run in Order)
 
-1. `01_tci.R`  
+1. `01_tci_HS4.R`  
    → Cleans data and computes TCI  
 
-2. `02_esi.R`  
+2. `02_esi_HS4.R`  
    → Computes ESI  
 
 3. `03_merge_and_visualize.R`  
