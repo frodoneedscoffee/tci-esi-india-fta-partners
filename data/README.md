@@ -7,7 +7,7 @@ This folder contains raw trade data used for calculating the Trade Complementari
 All data were downloaded from the World Integrated Trade Solution (WITS) database.
 
 - Classification: HS 2017 Revision
-- Aggregation Level: HS4
+- Aggregation Levels: HS2 and HS4
 - Period: 2017–2024
 - Reporter Countries:
   - India (exports)
@@ -21,7 +21,7 @@ All data were downloaded from the World Integrated Trade Solution (WITS) databas
 ## Structure
 
 - Raw CSV files containing:
-  - Nomenclature (HS5)
+  - Nomenclature
   - Reporter ISO3 code
   - Reporter name
   - Product code
