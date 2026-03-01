@@ -2,6 +2,11 @@
 
 This folder contains R scripts used for data cleaning, index construction, and visualization.
 
+## Required Packages
+
+- tidyverse
+- ggrepel
+
 ## Main Tasks
 
 1. Data Cleaning
