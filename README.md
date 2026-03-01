@@ -31,11 +31,7 @@ Data source: World Integrated Trade Solution (WITS)
 ### Trade Complementarity Index (TCI)
 
 Measures how well India's export structure matches a partner's import demand.
-
-\[
-TCI = 100 \times \left(1 - \frac{\sum |M_i - X_i|}{2} \right)
-\]
-
+TCI = 100 × [1 − (Σ |Mi − Xi| / 2)]
 - Higher TCI → Greater structural alignment  
 - Captures **potential for inter-industry trade**
 
@@ -45,10 +41,7 @@ TCI = 100 \times \left(1 - \frac{\sum |M_i - X_i|}{2} \right)
 
 Measures similarity between export baskets.
 
-\[
-ESI = 100 \times \sum \min(X_i, Y_i)
-\]
-
+ESI = 100 × Σ min(Xi, Yi)
 - Higher ESI → Greater export overlap  
 - Indicates **competition or intra-industry trade potential**
 
