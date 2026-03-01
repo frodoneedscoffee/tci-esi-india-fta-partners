@@ -67,7 +67,7 @@ Both indices are computed at:
    → Cleans data and computes TCI  
 
 2. `02_esi_HS4.R`  
-   → Computes ESI  
+   → Cleans data and omputes ESI  
 
 3. `03_merge_and_visualize.R`  
    → Merges indices and generates plots  
