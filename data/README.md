@@ -21,11 +21,15 @@ All data were downloaded from the World Integrated Trade Solution (WITS) databas
 ## Structure
 
 - Raw CSV files containing:
+  - Nomenclature (HS5)
   - Reporter ISO3 code
   - Reporter name
-  - Year
-  - Trade flow (Import/Export)
   - Product code
+  - Year
+  - Partner ISO3 code (WLD)
+  - Partner name (World)
+  - Trade flow (Import/Export)
+  - Trade flow code
   - Trade value (in 1000 USD)
 
 ## Notes
