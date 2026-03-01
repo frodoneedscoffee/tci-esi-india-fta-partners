@@ -49,10 +49,10 @@ ESI = 100 × Σ min(Xi, Yi)
 
 ## Interpretation Strategy
 
-| High TCI | Low ESI | Complementary trade potential |
-| High TCI | High ESI | Intra-industry & supply chain integration potential |
-| Low TCI | Low ESI | Structurally dissimilar trade |
-| Low TCI | High ESI | Competitive overlap without demand alignment |
+- High TCI & Low ESI => Complementary trade potential
+- High TCI & High ESI => Intra-industry & supply chain integration potential
+- Low TCI & Low ESI => Structurally dissimilar trade
+- Low TCI & High ESI => Competitive overlap without demand alignment 
 
 Both indices are computed at:
 - **HS2** → Sector structure
