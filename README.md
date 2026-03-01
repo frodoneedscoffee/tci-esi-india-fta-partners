@@ -1,5 +1,4 @@
-# Trade Complementarity and Export Similarity:
-## India and Selected FTA Partners (HS 2017, 2017–2024)
+# Trade Complementarity and Export Similarity: India and Selected FTA Partners (HS 2017, 2017–2024)
 
 This repository analyzes trade structure alignment between India and its recent or prospective Free Trade Agreement (FTA) partners using:
 
